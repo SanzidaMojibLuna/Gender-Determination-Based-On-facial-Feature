@@ -14,7 +14,7 @@ new_model.py is the runnable python file. There are other 4 files:
 3.gender_deploy.prototxt
 4.gender_net.caffemodel
 
-These are weights and model for face and gender detection and needsto be 
+These are weights and model for face and gender detection and needs to be 
 in the same folder as the source code. 
 
 The images from which gender needs to be detected has to be in the 
